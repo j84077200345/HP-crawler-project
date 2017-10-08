@@ -34,7 +34,10 @@ py.iplot(fig,filename='App_TotalCount')
 
 
 
+{::nomarkdown}
+
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~j84077200345/44.embed" height="525px" width="100%"></iframe>
+{:/}
 
 
 
